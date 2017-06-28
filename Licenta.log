@@ -1,0 +1,823 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.5)  28 JUN 2017 12:18
+entering extended mode
+**./Licenta.tex
+(Licenta.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fleqn.clo"
+File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/05/19 3.10 The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-romanian\romanian.ldf"
+Language: romanian 2005/03/31 v1.2l Romanian support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen106
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count90
+\uc@combtoks=\toks17
+\uc@combtoksb=\toks18
+\uc@temptokena=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen107
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen108
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks21
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks22
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks23
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen116
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen117
+\subfiglabelskip=\skip49
+\c@subfigure=\count103
+\c@lofdepth=\count104
+\c@subtable=\count105
+\c@lotdepth=\count106
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count107
+\c@ALC@line=\count108
+\c@ALC@rem=\count109
+\c@ALC@depth=\count110
+\ALC@tlm=\skip52
+\algorithmicindent=\skip53
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count111
+\float@exts=\toks25
+\float@box=\box28
+\@float@everytoks=\toks26
+\@floatcapt=\box29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count112
+\mult@box=\box30
+\multicol@leftmargin=\dimen118
+\c@unbalance=\count113
+\c@collectmore=\count114
+\doublecol@number=\count115
+\multicoltolerance=\count116
+\multicolpretolerance=\count117
+\full@width=\dimen119
+\page@free=\dimen120
+\premulticols=\dimen121
+\postmulticols=\dimen122
+\multicolsep=\skip54
+\multicolbaselineskip=\skip55
+\partial@page=\box31
+\last@line=\box32
+\maxbalancingoverflow=\dimen123
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count118
+\c@finalcolumnbadness=\count119
+\last@try=\dimen124
+\multicolovershoot=\dimen125
+\multicolundershoot=\dimen126
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\mc@col@check@num=\count120
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2016/10/11 v3.9 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip56
+\f@nch@O@elh=\skip57
+\f@nch@O@erh=\skip58
+\f@nch@O@olh=\skip59
+\f@nch@O@orh=\skip60
+\f@nch@O@elf=\skip61
+\f@nch@O@erf=\skip62
+\f@nch@O@olf=\skip63
+\f@nch@O@orf=\skip64
+)
+\@float@every@program=\toks27
+\c@program=\count121
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count122
+\lst@gtempboxa=\box56
+\lst@token=\toks28
+\lst@length=\count123
+\lst@currlwidth=\dimen127
+\lst@column=\count124
+\lst@pos=\count125
+\lst@lostspace=\dimen128
+\lst@width=\dimen129
+\lst@newlines=\count126
+\lst@lineno=\count127
+\lst@maxwidth=\dimen130
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count128
+\lst@skipnumbers=\count129
+\lst@framebox=\box57
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen131
+\captionmargin@=\dimen132
+\captionwidth=\dimen133
+\caption@tempdima=\dimen134
+\caption@indent=\dimen135
+\caption@parindent=\dimen136
+\caption@hangindent=\dimen137
+)
+\c@ContinuedFloat=\count130
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+) (Licenta.aux)
+\openout1 = `Licenta.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count131
+\scratchdimen=\dimen138
+\scratchbox=\box58
+\nofMPsegments=\count132
+\nofMParguments=\count133
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count134
+\MPscratchDim=\dimen139
+\MPnumerator=\count135
+\makeMPintoPDFobject=\count136
+\everyMPtoPDFconversion=\toks30
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+\c@lstlisting=\count137
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ (coperta.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-2.def"
+File: uni-2.def 2013/05/13 UCS: Unicode data U+0200..U+02FF
+)
+<./img/logo_fii.png, id=1, 217.81375pt x 200.75pt>
+File: ./img/logo_fii.png Graphic file (type png)
+ <use ./img/logo_fii.png>
+Package pdftex.def Info: ./img/logo_fii.png used on input line 10.
+(pdftex.def)             Requested size: 63.8974pt x 58.88991pt.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-1.def"
+File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
+) [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/logo_fii.png>] [2])
+ (pagina_titlu.tex
+[1] [2]) (rezumat.tex ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+[1] [2]) (introducere.tex ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-32.de
+f"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+) [3
+
+]) [4] (capitolul1.tex
+Capitolul 1.
+[5
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+<img/eniac.jpg, id=43, 474.27188pt x 342.5297pt>
+File: img/eniac.jpg Graphic file (type jpg)
+ <use img/eniac.jpg>
+Package pdftex.def Info: img/eniac.jpg used on input line 37.
+(pdftex.def)             Requested size: 379.41801pt x 274.02412pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6] <img/dynabook.jpg, id=47, 642.4pt x 481.8pt>
+File: img/dynabook.jpg Graphic file (type jpg)
+ <use img/dynabook.jpg>
+Package pdftex.def Info: img/dynabook.jpg used on input line 52.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./img/eniac.jpg>] [8 <./img/dynabook.jpg>]
+Overfull \hbox (12.39684pt too wide) in paragraph at lines 79--80
+[]\OT1/cmr/m/n/12 Un exem-plu ce por-tre-ti-zeaza foarte bine at^at cre-a-ti-v
+i-ta-tea c^at []i uti-li-za-rea ac[]iunilor
+ []
+
+<img/marbleAnswMachine.png, id=55, 432.61626pt x 397.485pt>
+File: img/marbleAnswMachine.png Graphic file (type png)
+
+<use img/marbleAnswMachine.png>
+Package pdftex.def Info: img/marbleAnswMachine.png used on input line 83.
+(pdftex.def)             Requested size: 259.57176pt x 238.49283pt.
+ [9 <./img/marbleAnswMachine.png>]
+<img/microsoft_hololens_demo.jpg, id=60, 1606.0pt x 1069.9975pt>
+File: img/microsoft_hololens_demo.jpg Graphic file (type jpg)
+
+<use img/microsoft_hololens_demo.jpg>
+Package pdftex.def Info: img/microsoft_hololens_demo.jpg used on input line 100
+.
+(pdftex.def)             Requested size: 401.49902pt x 267.49872pt.
+) [10 <./img/microsoft_hololens_demo.jpg>] (capitolul2.tex
+Capitolul 2.
+[11
+
+
+] <img/link_trainer.jpg, id=67, 433.1382pt x 329.0694pt>
+File: img/link_trainer.jpg Graphic file (type jpg)
+
+<use img/link_trainer.jpg>
+Package pdftex.def Info: img/link_trainer.jpg used on input line 20.
+(pdftex.def)             Requested size: 389.82079pt x 296.1597pt.
+ [12 <./img/link_trainer.jpg>]
+<img/sensorama.jpg, id=71, 1107.13625pt x 803.0pt>
+File: img/sensorama.jpg Graphic file (type jpg)
+ <use img/sensorama.jpg>
+Package pdftex.def Info: img/sensorama.jpg used on input line 38.
+(pdftex.def)             Requested size: 387.5035pt x 281.05421pt.
+
+[13 <./img/sensorama.jpg>] <img/nasaVR.jpg, id=75, 501.875pt x 385.44pt>
+File: img/nasaVR.jpg Graphic file (type jpg)
+
+<use img/nasaVR.jpg>
+Package pdftex.def Info: img/nasaVR.jpg used on input line 55.
+(pdftex.def)             Requested size: 401.50053pt x 308.35242pt.
+ <img/virtuality.jpg, id=76, 803.0pt x 534.99875pt>
+File: img/virtuality.jpg Graphic file (type jpg)
+
+<use img/virtuality.jpg>
+Package pdftex.def Info: img/virtuality.jpg used on input line 66.
+(pdftex.def)             Requested size: 401.49902pt x 267.49872pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14 <./img/nasaVR.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <./img/virtuality.jpg>] <img/htcvive.jpg, id=84, 1927.2pt x 1204.5pt>
+File: img/htcvive.jpg Graphic file (type jpg)
+
+<use img/htcvive.jpg>
+Package pdftex.def Info: img/htcvive.jpg used on input line 91.
+(pdftex.def)             Requested size: 385.43318pt x 240.89574pt.
+ [16 <./img/htcvive.jpg>]
+<img/oculusRift.jpg, id=88, 1204.5pt x 676.5275pt>
+File: img/oculusRift.jpg Graphic file (type jpg)
+ <use img/oculusRift.jpg>
+Package pdftex.def Info: img/oculusRift.jpg used on input line 104.
+(pdftex.def)             Requested size: 421.58131pt x 236.78816pt.
+
+Overfull \hbox (9.37599pt too wide) in paragraph at lines 115--116
+[]\OT1/cmr/m/n/12 Sistemul de de-tec-tare a pozi[]iei, nu-mit \OT1/cmr/m/it/12 
+Con-ste-l-la-tion\OT1/cmr/m/n/12 , uti-li-zeaza sen-zori cu infraro[]u
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17 <./img/oculusRift.jpg>] <img/LeapMotion.png, id=93, 2968.08875pt x 1951.29
+pt>
+File: img/LeapMotion.png Graphic file (type png)
+
+<use img/LeapMotion.png>
+Package pdftex.def Info: img/LeapMotion.png used on input line 129.
+(pdftex.def)             Requested size: 178.07764pt x 117.07234pt.
+ <img/leapUse.jpg, id=95, 523.9575pt x 307.1475pt>
+File: img/leapUse.jpg Graphic file (type jpg)
+
+<use img/leapUse.jpg>
+Package pdftex.def Info: img/leapUse.jpg used on input line 138.
+(pdftex.def)             Requested size: 209.57928pt x 122.85681pt.
+ [18 <./img/LeapMotion.png> <./img/leapUse.jpg>]
+Overfull \hbox (2.26093pt too wide) in paragraph at lines 146--148
+[]\OT1/cmr/m/it/12 Unreal En-gine \OT1/cmr/m/n/12 este unul din cele mai po-pu-
+lare mo-toare gra-fice alaturi de Unity3D,
+ []
+
+<img/simpleBPexample.jpg, id=100, 852.93657pt x 535.2497pt>
+File: img/simpleBPexample.jpg Graphic file (type jpg)
+
+<use img/simpleBPexample.jpg>
+Package pdftex.def Info: img/simpleBPexample.jpg used on input line 153.
+(pdftex.def)             Requested size: 383.81792pt x 240.86014pt.
+ [19 <./img/simpleBPexample.jpg>]) [20
+
+]
+(capitolul3.tex
+Capitolul 3.
+<img/screenshot2.png, id=107, 1445.4pt x 813.0375pt>
+File: img/screenshot2.png Graphic file (type png)
+ <use img/screenshot2.png>
+Package pdftex.def Info: img/screenshot2.png used on input line 7.
+(pdftex.def)             Requested size: 404.70924pt x 227.64894pt.
+
+[21
+
+ <./img/screenshot2.png>]
+<img/screenshot1.png, id=112, 1445.4pt x 813.0375pt>
+File: img/screenshot1.png Graphic file (type png)
+ <use img/screenshot1.png>
+Package pdftex.def Info: img/screenshot1.png used on input line 30.
+(pdftex.def)             Requested size: 404.70924pt x 227.64894pt.
+
+Underfull \vbox (badness 5878) has occurred while \output is active []
+
+ [22 <./img/screenshot1.png>] <img/stereoscopic.png, id=116, 1445.4pt x 813.037
+5pt>
+File: img/stereoscopic.png Graphic file (type png)
+
+<use img/stereoscopic.png>
+Package pdftex.def Info: img/stereoscopic.png used on input line 45.
+(pdftex.def)             Requested size: 404.70924pt x 227.64894pt.
+ [23 <./img/stereoscopic.png>]
+<img/digitalBlue.png, id=120, 1203.7472pt x 490.83376pt>
+File: img/digitalBlue.png Graphic file (type png)
+
+<use img/digitalBlue.png>
+Package pdftex.def Info: img/digitalBlue.png used on input line 65.
+(pdftex.def)             Requested size: 397.2378pt x 161.97563pt.
+ [24 <./img/digitalBlue.png>]
+<img/toggleVisBrowserActor.png, id=125, 1434.10782pt x 617.30624pt>
+File: img/toggleVisBrowserActor.png Graphic file (type png)
+
+<use img/toggleVisBrowserActor.png>
+Package pdftex.def Info: img/toggleVisBrowserActor.png used on input line 75.
+(pdftex.def)             Requested size: 401.54745pt x 172.84456pt.
+
+<img/DisplayTitleScript1.png, id=126, 726.46407pt x 197.23688pt>
+File: img/DisplayTitleScript1.png Graphic file (type png)
+
+<use img/DisplayTitleScript1.png>
+Package pdftex.def Info: img/DisplayTitleScript1.png used on input line 86.
+(pdftex.def)             Requested size: 399.55647pt x 108.4806pt.
+ [25 <./img/toggleVisBrowserActor.png> <./img/DisplayTitleScript1.png>]
+<img/DisplayTitleScript2.png, id=132, 651.18282pt x 217.5628pt>
+File: img/DisplayTitleScript2.png Graphic file (type png)
+
+<use img/DisplayTitleScript2.png>
+Package pdftex.def Info: img/DisplayTitleScript2.png used on input line 95.
+(pdftex.def)             Requested size: 390.7127pt x 130.53868pt.
+
+<img/SnipetTransform.png, id=133, 706.89093pt x 252.19218pt>
+File: img/SnipetTransform.png Graphic file (type png)
+
+<use img/SnipetTransform.png>
+Package pdftex.def Info: img/SnipetTransform.png used on input line 109.
+(pdftex.def)             Requested size: 388.79121pt x 138.70612pt.
+ [26 <./img/DisplayTitleScript2.png> <./img/SnipetTransform.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 123.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 123.
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 150.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 150.
+ [27] [28]
+Underfull \vbox (badness 5260) has occurred while \output is active []
+
+ [29]
+<img/docTree.png, id=150, 374.14781pt x 305.64188pt>
+File: img/docTree.png Graphic file (type png)
+ <use img/docTree.png>
+Package pdftex.def Info: img/docTree.png used on input line 247.
+(pdftex.def)             Requested size: 411.56384pt x 336.20708pt.
+
+[30 <./img/docTree.png>] <img/xpagexml.png, id=155, 367.3725pt x 303.38344pt>
+File: img/xpagexml.png Graphic file (type png)
+
+<use img/xpagexml.png>
+Package pdftex.def Info: img/xpagexml.png used on input line 257.
+(pdftex.def)             Requested size: 440.84477pt x 364.05829pt.
+
+Overfull \hbox (14.84477pt too wide) in paragraph at lines 257--258
+ [][] 
+ []
+
+[31
+
+ <./img/xpagexml.png>]
+Overfull \hbox (62.26534pt too wide) in paragraph at lines 272--273
+[]\OT1/cmr/m/it/12 /wikis/wikiName/spaces/spaceName[/spaces/nestedSpaceName]*/p
+ages/pageName/children 
+ []
+
+<img/restAPI.png, id=160, 571.38469pt x 123.46124pt>
+File: img/restAPI.png Graphic file (type png)
+ <use img/restAPI.png>
+Package pdftex.def Info: img/restAPI.png used on input line 276.
+(pdftex.def)             Requested size: 571.38329pt x 123.46092pt.
+
+Overfull \hbox (145.38329pt too wide) in paragraph at lines 276--277
+ [][] 
+ []
+
+) [32
+
+ <./img/restAPI.png>] (capitolul4.tex
+Capitolul 4.
+<img/magicleap.jpg, id=165, 1405.25pt x 790.955pt>
+File: img/magicleap.jpg Graphic file (type jpg)
+ <use img/magicleap.jpg>
+Package pdftex.def Info: img/magicleap.jpg used on input line 13.
+(pdftex.def)             Requested size: 379.42258pt x 213.5607pt.
+
+[33
+
+
+ <./img/magicleap.jpg>]
+<img/emotiv_epoc.png, id=170, 602.25pt x 382.42876pt>
+File: img/emotiv_epoc.png Graphic file (type png)
+
+<use img/emotiv_epoc.png>
+Package pdftex.def Info: img/emotiv_epoc.png used on input line 29.
+(pdftex.def)             Requested size: 361.35278pt x 229.45901pt.
+ [34 <./img/emotiv_epoc.png>]
+Overfull \hbox (19.76674pt too wide) in paragraph at lines 36--37
+\OT1/cmr/m/it/12 Brain-computer in-ter-face \OT1/cmr/m/n/12 pres-cur-tat \OT1/c
+mr/m/it/12 BCI\OT1/cmr/m/n/12 , une-ori nu-mit []i \OT1/cmr/m/it/12 mind-machin
+e in-ter-face(MMI)
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+<img/invasiveBCI.jpg, id=175, 602.25pt x 521.95pt>
+File: img/invasiveBCI.jpg Graphic file (type jpg)
+ <use img/invasiveBCI.jpg>
+Package pdftex.def Info: img/invasiveBCI.jpg used on input line 44.
+(pdftex.def)             Requested size: 120.44786pt x 104.38814pt.
+
+<img/BrainGate.jpg, id=176, 338.76563pt x 238.64156pt>
+File: img/BrainGate.jpg Graphic file (type jpg)
+ <use img/BrainGate.jpg>
+Package pdftex.def Info: img/BrainGate.jpg used on input line 53.
+(pdftex.def)             Requested size: 135.50385pt x 95.45493pt.
+
+<img/noninvasiveBCI.png, id=177, 501.875pt x 392.46625pt>
+File: img/noninvasiveBCI.png Graphic file (type png)
+
+<use img/noninvasiveBCI.png>
+Package pdftex.def Info: img/noninvasiveBCI.png used on input line 62.
+(pdftex.def)             Requested size: 150.56366pt x 117.74077pt.
+ [35 <./img/invasiveBCI.jpg> <./img/BrainGate.jpg> <./img/noninvasiveBCI.png>]
+Overfull \hbox (1.69556pt too wide) in paragraph at lines 74--75
+\OT1/cmr/m/n/12 Singularitatea teh-no-lo-gica este un con-cept din fu-tu-ro-lo
+-gie care se re-fera la implica[]iile
+ []
+
+) (Licenta.bbl [36]
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [37
+
+] [38
+
+] (Licenta.toc)
+\tf@toc=\write3
+\openout3 = `Licenta.toc'.
+
+ [39
+
+] [40
+
+] (Licenta.lof
+Overfull \hbox (2.90117pt too wide) in paragraph at lines 5--5
+ [][] []\OT1/cmr/m/n/12 Schi[]e re-pre-zent^and mo-dul de uti-li-zare al Ro-bo-
+tu-lui te-le-fo-nic cu bilu[]e, 
+ []
+
+
+Overfull \hbox (0.65216pt too wide) in paragraph at lines 6--6
+ [][] []\OT1/cmr/m/n/12 Realitate aug-men-tata, demonstra[]ie a dis-po-zi-ti-v
+u-lui \OT1/cmr/m/it/12 Ho-lo-Lens \OT1/cmr/m/n/12 dezvol- 
+ []
+
+)
+\tf@lof=\write4
+\openout4 = `Licenta.lof'.
+
+ [41
+
+] (Licenta.aux) ) 
+Here is how much of TeX's memory you used:
+ 8820 strings out of 493323
+ 119777 string characters out of 3139070
+ 316573 words of memory out of 3000000
+ 12164 multiletter control sequences out of 15000+200000
+ 19230 words of font info for 66 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,10n,58p,1016b,1636s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmti7.pfb>
+Output written on Licenta.pdf (45 pages, 8658395 bytes).
+PDF statistics:
+ 253 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,26 @@
+\select@language {romanian}
+\contentsline {chapter}{\numberline {1}Media}{5}
+\contentsline {section}{\numberline {1.1}Constr\IeC {\^a}ngeri}{5}
+\contentsline {section}{\numberline {1.2}Concepte}{6}
+\contentsline {section}{\numberline {1.3}Solu\IeC {{\textcommabelow t}}ii}{8}
+\contentsline {subsection}{\numberline {1.3.1}Asumarea riscului}{8}
+\contentsline {subsection}{\numberline {1.3.2}Creativitate}{9}
+\contentsline {subsection}{\numberline {1.3.3}Uciderea mesagerului}{10}
+\contentsline {chapter}{\numberline {2}Tehnologii \IeC {{\textcommabelow s}}i Spa\IeC {{\textcommabelow t}}iu Virtual}{11}
+\contentsline {section}{\numberline {2.1}Realitate virtual\IeC {\u a}}{11}
+\contentsline {subsection}{\numberline {2.1.1}Origini}{11}
+\contentsline {subsection}{\numberline {2.1.2}Realitatea Virtual\IeC {\u a} \IeC {\^\i }n anii '80, '90}{13}
+\contentsline {subsection}{\numberline {2.1.3}\IeC {\^I}n prezent}{16}
+\contentsline {subsection}{\numberline {2.1.4}Oculus Rift}{17}
+\contentsline {section}{\numberline {2.2}Prezen\IeC {{\textcommabelow t}}\IeC {\u a} virtual\IeC {\u a}}{18}
+\contentsline {section}{\numberline {2.3}Unreal Engine}{19}
+\contentsline {chapter}{\numberline {3}Mediu virtual - Particularizare}{21}
+\contentsline {section}{\numberline {3.1}Implementare}{23}
+\contentsline {subsection}{\numberline {3.1.1}Blueprint-uri}{24}
+\contentsline {subsection}{\numberline {3.1.2}C++}{27}
+\contentsline {section}{\numberline {3.2}Platforma XWiki}{30}
+\contentsline {section}{\numberline {3.3}Func\IeC {{\textcommabelow t}}ionalit\IeC {\u a}\IeC {{\textcommabelow t}}i de ad\IeC {\u a}ugat}{32}
+\contentsline {chapter}{\numberline {4}Viziune}{33}
+\contentsline {section}{\numberline {4.1}Control}{33}
+\contentsline {section}{\numberline {4.2}Brain-computer interface}{35}
+\contentsline {section}{\numberline {4.3}Singularitate tehnologic\IeC {\u a}}{36}

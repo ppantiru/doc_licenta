@@ -1,0 +1,75 @@
+\documentclass[a4paper,12pt, fleqn, titlepage, twoside]{report}
+\usepackage[pdftex]{graphicx}
+\usepackage[romanian]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{subfigure}
+\usepackage{algorithmic}
+\usepackage{float}
+\usepackage{color}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+
+\floatstyle{ruled}
+\newfloat{program}{htp}{lop}
+\floatname{program}{Program}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+
+    \setlength{\voffset}{-10pt} 
+    \setlength{\topmargin}{0pt}
+    \setlength{\headheight}{0pt} 
+    \setlength{\headsep}{25pt}
+    \setlength{\textheight}{660pt}
+    \setlength{\footskip}{30pt}
+
+    \setlength{\hoffset}{0pt}
+    \setlength{\oddsidemargin}{1.4cm}
+    \setlength{\textwidth}{426pt}
+    \setlength{\marginparsep}{0pt}
+    \setlength{\marginparwidth}{0pt}
+
+    \setlength{\marginparpush}{0pt}
+    \setlength{\headwidth}{\textwidth}
+    \setlength{\evensidemargin}{\paperwidth}
+
+    \addtolength{\evensidemargin}{-\textwidth}
+    \addtolength{\evensidemargin}{-2.0in}
+    \addtolength{\evensidemargin}{-\oddsidemargin} 
+
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{caption}
+\renewcommand{\lstlistingname}{Snippet}% Listing -> Snippet
+\renewcommand{\lstlistlistingname}{List of \lstlistingname s}
+\lstset { %
+    language=C++,
+    backgroundcolor=\color{black!5}, % set backgroundcolor
+    basicstyle=\footnotesize,% basic font setting
+    captionpos=b,
+}
+
+\begin{document}
+
+\input{./coperta.tex}
+\input{./pagina_titlu.tex}
+\input{./rezumat.tex}
+\input{./introducere.tex}
+\cleardoublepage
+\input{./capitolul1.tex}
+\cleardoublepage
+\input{./capitolul2.tex}
+\cleardoublepage
+\input{./capitolul3.tex}
+\cleardoublepage
+\input{./capitolul4.tex}
+
+\bibliographystyle{plain}
+\bibliography{fcg,osf}
+\cleardoublepage
+\tableofcontents	
+\cleardoublepage
+\listoffigures
+
+\end{document}

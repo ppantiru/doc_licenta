@@ -1,0 +1,342 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.12)  13 JUN 2017 21:20
+entering extended mode
+**./pagina_titlu.tex
+(pagina_titlu.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+! Undefined control sequence.
+<recently read> \Large 
+                       
+l.6 ...ge Universitatea Alexandru Ioan Cuza IaÈ™i}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no È in font cmcsc10!
+Missing character: There is no ™ in font cmcsc10!
+
+Overfull \hbox (70.9607pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 Universitatea 
+ []
+
+
+Overfull \hbox (41.02754pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 Alexan- 
+ []
+
+
+Overfull \hbox (18.17772pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 dru 
+ []
+
+
+Overfull \hbox (22.45543pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 Ioan 
+ []
+
+
+Overfull \hbox (25.14987pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 Cuza 
+ []
+
+
+Overfull \hbox (13.21101pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 Iai 
+ []
+
+! Undefined control sequence.
+<recently read> \Large 
+                       
+l.7 \textsc{\Large Facultatea de InformaticÄƒ}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Ä in font cmcsc10!
+Missing character: There is no ƒ in font cmcsc10!
+
+Overfull \hbox (56.7135pt too wide) in paragraph at lines 7--8
+ []\OT1/cmr/m/sc/10 Facultatea 
+ []
+
+
+Overfull \hbox (11.82217pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/sc/10 de 
+ []
+
+
+Overfull \hbox (13.96655pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/sc/10 In- 
+ []
+
+
+Overfull \hbox (21.28879pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/sc/10 for- 
+ []
+
+
+Overfull \hbox (27.7776pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/sc/10 matic 
+ []
+
+! Undefined control sequence.
+l.13 { \huge
+             \bfseries World Wide Web-ul È™i Realitatea virtualÄƒ}\\[1.5cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no È in font cmbx10!
+Missing character: There is no ™ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ƒ in font cmbx10!
+
+Overfull \hbox (30.99985pt too wide) in paragraph at lines 13--13
+ []\OT1/cmr/bx/n/10 World 
+ []
+
+
+Overfull \hbox (26.74292pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 Wide 
+ []
+
+
+Overfull \hbox (26.42348pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 Web- 
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 ul 
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 i 
+ []
+
+
+Overfull \hbox (17.72908pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 Re- 
+ []
+
+
+Overfull \hbox (12.61797pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 al- 
+ []
+
+
+Overfull \hbox (7.02774pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 i- 
+ []
+
+
+Overfull \hbox (25.39566pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 tatea 
+ []
+
+
+Overfull \hbox (17.83325pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 vir- 
+ []
+
+
+Overfull \hbox (19.6457pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 tual 
+ []
+
+! Undefined control sequence.
+<recently read> \Large 
+                       
+l.14 \textit{\textbf{\Large Paul PanÈ›iru}}
+                                           \\[1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no È in font cmbxti10!
+Missing character: There is no › in font cmbxti10!
+
+Overfull \hbox (22.95529pt too wide) in paragraph at lines 14--14
+ []\OT1/cmr/bx/it/10 Paul 
+ []
+
+
+Overfull \hbox (36.00339pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/it/10 Paniru 
+ []
+
+! Undefined control sequence.
+l.15 \Large
+            \textbf{Sesiunea:} \textit{iunie, 2017}\\[2cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (46.22334pt too wide) in paragraph at lines 15--15
+ []\OT1/cmr/bx/n/10 Sesiunea: 
+ []
+
+
+Overfull \hbox (12.01103pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/m/it/10 iu- 
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/m/it/10 nie, 
+ []
+
+
+Overfull \hbox (21.7999pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/m/it/10 2017 
+ []
+
+! Undefined control sequence.
+l.18 {\large
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no È in font nullfont!
+Missing character: There is no ™ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no È in font nullfont!
+Missing character: There is no › in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+
+Overfull \hbox (28.2331pt too wide) in paragraph at lines 20--22
+ []\OT1/cmr/bx/it/10 Conf. 
+ []
+
+
+Overfull \hbox (17.32764pt too wide) in paragraph at lines 20--22
+ \OT1/cmr/bx/it/10 Dr. 
+ []
+
+
+Overfull \hbox (31.93301pt too wide) in paragraph at lines 20--22
+ \OT1/cmr/bx/it/10 Sabin- 
+ []
+
+
+Overfull \hbox (43.744pt too wide) in paragraph at lines 20--22
+ \OT1/cmr/bx/it/10 Corneliu 
+ []
+
+
+Overfull \hbox (35.94408pt too wide) in paragraph at lines 20--22
+ \OT1/cmr/bx/it/10 Buraga 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (20.0pt too wide) in paragraph at lines 33--34
+[][] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ./pagina_titlu.tex
+                      
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 20 strings out of 493323
+ 256 string characters out of 3139069
+ 54648 words of memory out of 3000000
+ 3653 multiletter control sequences out of 15000+200000
+ 4954 words of font info for 18 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,4n,14p,107b,156s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
