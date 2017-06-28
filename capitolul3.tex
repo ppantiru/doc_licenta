@@ -8,16 +8,16 @@ Pentru acest proiect am folosit una din versiunile dedicate dezvoltatorilor Ocul
   \caption{Captură de ecran al aplicației 3D}
 \end{figure}
 
-Ceea ce scoate în evidență prezentarea și explorarea unor elemente într-un spațiu virtual comparativ cu utilizarea browserului într-un plan 2D, este libertatea creatorului de a-și exprima ideile și de a le plasa exact în atmosfera dorită, creând o proiecție a imaginației sale. Imersiunea utilizatorului nemaifiind obstrucționată de elemente externe, acesta fiind înconjurat doar de lucruri intenționat plasate.
+Ceea ce scoate în evidență prezentarea și explorarea unor elemente într-un spațiu virtual comparativ cu utilizarea browserului într-un plan 2D, este libertatea creatorului de a-și exprima ideile și de a le plasa exact în atmosfera dorită, creând o proiecție a imaginației sale. Imersiunea utilizatorului nu mai este astfel obstrucționată de elemente externe, acesta fiind înconjurat doar de lucruri intenționat plasate.
 
 Există experiențe ce pur și simplu nu pot fi redate prin medii clasice, vizitarea unui muzeu de artă spre exemplu. Deși imaginile picturilor pot fi găsite în cărți sau pe internet, grandoarea operelor este imposibil de capturat prin astfel de medii. Este o experiență complet diferită între a vedea o imagine de câțiva centimetri pe un monitor și de-a o avea în față la dimensiunile unui perete, într-un mediu liniștit fără a fi distras de elemente intruzive.
 
 
-Un alt use case ce poate fi îndeplinit de această aplicație este de a păstra și explora un album foto, acesta putând fi structurat după preferință.
+Un alt caz de utilizare ce poate fi îndeplinit de această aplicație este de a păstra și explora un album foto, acesta putând fi structurat după preferință.
 De asemenea în acest mediu pot fi redate și clipuri video,  putând servi ca un cinematograf personal.
 
 
-Scopul acestei aplicații este de a demonstra un nou mod de interacțiune cu elemente virtuale, prin simpla folosire a mâinilor, un mod de a controla informația digitală folosindu-ne cele mai umane acțiuni.
+Scopul acestei aplicații este de a demonstra un nou mod de interacțiune cu elemente virtuale, prin simpla folosire a mâinilor, un mod de a controla informația digitală folosind cele mai umane și intuitive acțiuni.
 De asemenea se exemplifică un mod de explorare a resurselor web în acest mediu, pentru a sublinia potențialul realității virtuale de a deveni un \textit{medium}.
 
 În cazul nostru am folosit platforma XWiki pentru stocarea datelor pe baza cărora se generează principalele elemente grafice din interiorul aplicației.
@@ -56,7 +56,7 @@ Aici am folosit o combinație intre aceste moduri, sistemul de blueprint-uri pen
 \subsection{Blueprint-uri}
 
 Am început prin a crea într-un spațiu gol, mediul ambiant ce este constituit dintr-o sferă goală, translucidă în centru căreia se află o platformă de sticla pe care stă personajul.
-Sfera este la bază ceea ce în limbajul motoarelor grafice se numește un \textit{actor}\footnote{Un obiect ce poate fi plasat spațiul tridimensional, ce suportă transformări cum ar fi \textit{translație, scalare} sau \textit{rotație}} de tip \textit{static mesh}\footnote{Formă geometrică construită dintr-un set de poligoane ce este stocată în memoria video și randată de placa video}, asupra căreia am aplicat o serie de customizări pentru a crea efectul că suntem înconjurați de informații digitale în starea lor „naturală” în stilul filmului Matrix.
+Sfera este la bază ceea ce în limbajul motoarelor grafice se numește un \textit{actor}\footnote{Un obiect ce poate fi plasat spațiul tridimensional, ce suportă transformări cum ar fi \textit{translație, scalare} sau \textit{rotație}} de tip \textit{static mesh}\footnote{Formă geometrică construită dintr-un set de poligoane ce este stocată în memoria video și randată de placa video}, asupra căreia am aplicat o serie de personificări pentru a crea efectul că informația digitală ne înconjoară fizic.
 
 Acest efect a fost obținut prin crearea unui \textit{material}\footnote{Element ce poate fi aplicat unui \textit{mesh} pentru a-i schimba aspectul vizual} special format dintr-o imagine clasică, un negativ al imaginii (utilizat pentru obținerea transparenței) și un set de reguli pentru a dinamiza materialul.
 
@@ -118,7 +118,7 @@ API-ul de gameplay și clasele framework-ului Unreal sunt accesibile atât siste
 Aici am utilizat C++ pentru crearea componentei \textit{TreeNodeComponent} de care am vorbit în secțiunea anterioară ce are rolul de a accesa, selecta și aduce informații relevante din documentele XWiki.
 Această componentă face disponibile câteva lucruri pe care le accesăm din blueprint-urile discutate mai sus.
 
-\begin{lstlisting}[breaklines=true, postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space}, caption=Snippet din fișierul header al componentei \textit{TreeNode} în care se observă funcții și variabile utilizate în blueprint-uri]
+\begin{lstlisting}[breaklines=true, postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space}, caption=Snippet din fișierul header al componentei \textit{TreeNode} în care sunt declarate componentele esențiale utilizate în blueprint-uri]
 public:	
 	FHttpModule* Http;
 
