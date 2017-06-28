@@ -1,3 +1,50 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{engelbart:demo}
+Douglas Engelbart.
+\newblock The mother of all demos (presentation), 1968.
+
+\bibitem{epic:scriptig}
+Inc. Epic~Games.
+\newblock {\em Blueprints Visual Scripting}, 2004-2017.
+
+\bibitem{epic:programming}
+Inc. Epic~Games.
+\newblock {\em Programming Guide}, 2004-2017.
+
+\bibitem{epic:manual}
+Inc. Epic~Games.
+\newblock {\em Unreal Editor Manual}, 2004-2017.
+
+\bibitem{Geddes:brain}
+Linda Geddes.
+\newblock Human brain mapped in unprecedented detail.
+\newblock {\em Nature News}, 2016.
+
+\bibitem{jaquith:interfaces}
+Todd Jaquith.
+\newblock The evolution of brain-computer-interfaces (infografic), 2017.
+
+\bibitem{mcluhen:media}
+Marshall McLuhen.
+\newblock {\em Să întelegem media}.
+\newblock Curtea Veche, București, România, 2011.
+
+\bibitem{Reedy:minds}
+Christianna Reedy.
+\newblock When will virtual reality be able to connect directly to our minds?
+  (articol de știri), 2017.
+
+\bibitem{roundtable:history}
+VR~Roundtable.
+\newblock The history of virtual reality (documentary), 2017.
+
+\bibitem{massol:manual}
+XWiki SAS.
+\newblock {\em The XWiki RESTful API}, 2009-2017.
+
+\bibitem{siegel:medium}
+Daniel~G. Siegel.
+\newblock The lost medium (presentation), 2016.
 
 \end{thebibliography}

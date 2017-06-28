@@ -1,6 +1,8 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Licenta.aux
 The style file: plain.bst
-I found no \citation commands---while reading file Licenta.aux
-Database file #1: fcg.bib
-Database file #2: osf.bib
-(There was 1 error message)
+Database file #1: osf.bib
+Warning--entry type for "roundtable:history" isn't style-file defined
+--line 16 of file osf.bib
+Warning--entry type for "jaquith:interfaces" isn't style-file defined
+--line 30 of file osf.bib
+(There were 2 warnings)
